@@ -2,7 +2,7 @@ import { StyledHeader } from './styled/Header.styled'
 
 const Header = () => {
   return (
-    <StyledHeader>
+    <StyledHeader bg='red'>
       <h1>Hubble</h1>
     </StyledHeader>
   )
