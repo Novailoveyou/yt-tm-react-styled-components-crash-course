@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Styled Components Crash Course & Project
+
+## About
+
+This is me following Brad Traversy's [youtube video](https://youtu.be/02zO0hZmwnw)
+
+Year 2021
+
+## The following below is the default readme of npx create-react-app
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
